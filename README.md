@@ -1,7 +1,5 @@
 Content Based Image Retrieval
 
-
-
 In this digital era, image repository is increasing at a tremendous rate. First of all, people have a comparative ease of access to image capturing devices such as smartphones, digital cameras and scanning devices, then what it used to be a few years ago. Not only this, massive amount of data is also generated from medical sciences and satellite imaging every single day. The collection of images available on the internet is also growing at a much faster pace. “According to a study, there are 180 million images on the Web, a total amount of image data of about 3Tb along with 1 million or more digital images are being produced every single day”.Image retrieval performed by matching the feature of a query image with images in the dataset, has become a problem of interest to many people. A lot of research study has been going on in this field to develop systems and tools that shall enable efficient and accurate image browsing and retrieval. For instance, Flipkart had initiated image search on its website but later shut it down in less than a year of its launch because the results that it produced were a lot of times irrelevant and customers did not cater interest in this feature. We therefore, looked into various on going developments in this field and implemented a system that can provide as much best results possible. 
 
 There are two major image retrieval techniques: 
