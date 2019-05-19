@@ -3,7 +3,7 @@
 """
 Created on Thu Mar 14 00:31:37 2019
 
-@author: aayush
+@author: uditya
 """
 
 import ColorDescriptor
