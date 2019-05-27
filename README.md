@@ -10,11 +10,11 @@ There are two major image retrieval techniques:
 
 Text based Image retrieval is retrieval of images based on keywords or annotations that are either added manually to the images or sometimes the text that is associated in the form of subtitle or caption. Keywords are phrases that describe the content in an image. So, all the images in a database have these tags or keywords associated with them that are manually added to describe “what the image contains”. This approach was the most initial methods of retrieval but it has its own disadvantages:
 
-			I. This method is very time consuming and exhaustive.
+			I.This method is very time consuming and exhaustive.
 
-			II. Sometimes different words have different meanings, therefore it is context driven. This can result in a large number of inaccurate results.
+			II.Sometimes different words have different meanings, therefore it is context driven. This can result in a large number of inaccurate results.
 
-			III. Images might have a subjective matter such as feelings or emotions associated which may be different for different audience. 
+			III.Images might have a subjective matter such as feelings or emotions associated which may be different for different audience. 
 
 CBIR overcomes the limitations of Text Based Retrieval whereby the retrieval occurs on the actual “content” of images that is visible. CBIR works with low-level features such as color, shape or texture. 
 
